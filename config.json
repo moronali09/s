@@ -1,0 +1,16 @@
+{
+  "host": "parrowcraft.aternos.me",
+  "port": 25519,
+  "username": "sparrowbot",
+  "authmePassword": "Sparr0w!123",
+  "registerDelay": 2000,
+  "loginDelayAfterRegister": 5000,
+  "reconnectDelay": 10000,
+  "chatConsole": true,
+  "moveIntervalMs": 200,
+  "moveYawStep": 0.12,
+  "logFiles": {
+    "chat": "chat.log",
+    "error": "error.log"
+  }
+}
