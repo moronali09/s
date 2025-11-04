@@ -1,0 +1,9 @@
+{
+  "name": "sparrowbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "mineflayer": "^4.0.0",
+    "vec3": "^0.1.7"
+  }
+}
