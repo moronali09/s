@@ -3,7 +3,7 @@
   "port": 25519,
   "username": "sparrowbot",
   "authmePassword": "Sparr0w!123",
-  "registerDelay": 2000,
+  "registerDelay": 4000,
   "loginDelayAfterRegister": 5000,
   "reconnectDelay": 10000,
   "chatConsole": true,
